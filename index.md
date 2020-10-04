@@ -1,37 +1,6 @@
-**welcome to the garbage pit**
+**Welcome to the Garbage Pit**
 
-You can use the [editor on GitHub](https://github.com/SamGloverWrites/the-garbage-pit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I've got a bunch of writing which thus far has occupied the e-mail inboxes of my closest associates. That's about three or four human beings. A dedicated readership, yes, but an extensive one, no. Thus, in the interests of disseminating it a little farther afield, I'm gonna throw it on here. If you've happened upon this page, it's probably because I've accosted you drunkenly in a pub and written down the URL. Well done, you've made it this far. And perhaps, much akin to Red in the vinegar strokes of Shawshank Redemption, you're willing to go a little further. There's a bunch of links kicking around here somewhere, and they all lead, in a roundabout way, to me sun-kissed and dashing, lounging on the Pacific Coast, awaiting your company in the Garbage Pit. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cheers, love and hugs, and fuckity bye xoxox 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SamGloverWrites/the-garbage-pit/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
