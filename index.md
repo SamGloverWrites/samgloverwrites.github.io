@@ -4,4 +4,4 @@ I've got a bunch of writing which, thus far, has exclusively occupied the e-mail
 
 Cheers, love and hugs, and see ya soon xoxox 
 
-[Death Blender](https://github.com/SamGloverWrites/the-garbage-pit/edit/gh-pages/poetry.md) 
+[Death Blender]<a href="/death-blender.pdf">Death Blender</a> 
