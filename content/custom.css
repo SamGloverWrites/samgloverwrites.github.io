@@ -1,5 +1,27 @@
 /* insert CSS here */
-.body {
-    margin-left: 2ex;
-    margin-right: 2ex;
+body {
+    background-color: #D3D3D0;
+}
+
+.ml-20 {
+    margin-left: 20px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.page-footer {
+    text-align: center;
+    color: #FFFFE9;
+    background-color: #333333;
+}
+
+.jumbotron {
+    background-color: #333333;
+    color: #FFFFE9;
 }
