@@ -1,0 +1,39 @@
+/* insert CSS here */
+body {
+    background-color: #F1F1F1;
+}
+
+.ml-10 {
+    margin-left: 10px;
+}
+
+.mr-10 {
+    margin-right: 10px;
+}
+
+.ml-20 {
+    margin-left: 20px;
+}
+
+.mr-20 {
+    margin-right: 20px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.page-footer {
+    text-align: center;
+    color: #FFFFE9;
+    background-color: #333333;
+}
+
+.jumbotron {
+    background-color: #333333;
+    color: #FFFFE9;
+}
