@@ -8,8 +8,8 @@ As a disclaimer, the formatting of each text looks perfect on a desktop at prese
 
 Peace be upon you, and have a lucky day xoxo
 
- <a href="/deathblender.html">Death Blender</a>
+ <a href="/deathblender.html">DEATH BLENDERr</a>
  
- <a href="/TheBlackandBluesBook.html">The Black and Blues Book</a>
+ <a href="/TheBlackandBluesBook.html">THE BLACK AND BLUES BOOK</a>
  
- <a href="/julietinnovemberfinalcopypdf.html">Juliet In November</a>
+ <a href="/julietinnovemberfinalcopypdf.html">JULIET IN NOVEMBER</a>
