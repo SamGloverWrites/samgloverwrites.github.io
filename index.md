@@ -1,4 +1,4 @@
-**Welcome to the Garbage Pit**
+**Welcome to the Garbage Sale**
 
 I've got a bunch of writing which has almost exclusively occupied the e-mail inboxes of my closest associates. While they are a dedicated readership, they are rather an exclusive one. Thus, in the interests of sending the good word a little farther afield, I'm firing everything on to this website. 
 
