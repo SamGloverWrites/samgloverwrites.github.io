@@ -12,4 +12,4 @@ Peace be upon you, and have a lucky day xoxo
  
  <a href="/TheBlackandBluesBook.html">The Black and Blues Book</a>
  
- <a href="/julietinnovemberpdf.html">Juliet In November</a>
+ <a href="/julietinnovemberfinalcopypdf.html">Juliet In November</a>
