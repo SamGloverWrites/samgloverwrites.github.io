@@ -11,3 +11,5 @@ Peace be upon you, and have a lucky day xoxo
  <a href="/deathblender.html">Death Blender</a>
  
  <a href="/TheBlackandBluesBook.html">The Black and Blues Book</a>
+ 
+ <a href="/julietinnovemberpdf.html">Juliet In November</a>
