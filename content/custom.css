@@ -3,6 +3,16 @@ body {
     background-color: #F1F1F1;
 }
 
+p {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.margins {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
 .ml-20 {
     margin-left: 20px;
 }
