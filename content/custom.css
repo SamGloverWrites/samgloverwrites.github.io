@@ -33,6 +33,9 @@ p {
     text-align: center;
     color: #FFFFE9;
     background-color: #333333;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 .jumbotron {
