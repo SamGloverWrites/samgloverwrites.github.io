@@ -1,4 +1,3 @@
-/* insert CSS here */
 body {
     background-color: #F1F1F1;
 }
@@ -6,6 +5,14 @@ body {
 p {
     margin-left: 1em;
     margin-right: 1em;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.container{
+    position: relative;
 }
 
 .margins {
@@ -30,12 +37,8 @@ p {
 }
 
 .page-footer {
-    text-align: center;
-    color: #FFFFE9;
-    background-color: #333333;
-    position: fixed;
+    position: absolute;
     bottom: 0;
-    width: 100%;
 }
 
 .jumbotron {
