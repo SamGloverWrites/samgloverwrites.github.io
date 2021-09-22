@@ -1,0 +1,26 @@
+{
+  "name": "samgloverwrites.github.io",
+  "version": "1.0.0",
+  "description": "where good thoughts go to get got  In a certain, illiterate fashion, Samuel had determined to commit his thoughts to a new language. The language of sound. He was having some trouble with the glottal stop, but it wasn't going to hold him back, anymore than his throat could the air from his belly. That particular receptacle, from which bad thoughts emerged, was where good thoughts go to get got. And get got they did, in the most peculiar, spontaneous, and titillating of fashions.",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adover18/samgloverwrites.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adover18/samgloverwrites.github.io/issues"
+  },
+  "homepage": "https://github.com/adover18/samgloverwrites.github.io#readme",
+  "dependencies": {
+    "98.css": "^0.1.17"
+  },
+  "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0-rc.0",
+    "parcel": "^2.0.0-rc.0"
+  }
+}
