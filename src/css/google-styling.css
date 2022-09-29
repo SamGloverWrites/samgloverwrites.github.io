@@ -1,69 +1,3 @@
-* {
-  font-family: "Times New Roman", Times, serif;
-}
-
-body {
-  margin: 0;
-}
-
-.title {
-  font-family: "Times New Roman", Times, serif;
-  line-height: 3ex;
-  text-align: center;
-  margin-block-start: 0em;
-  margin-block-end: 0em;
-}
-
-.underline {
-  text-decoration: underline;
-}
-
-.italics {
-  font-style: italic;
-}
-
-.line-break {
-  color: #949494;
-  margin-top: 0ex;
-  margin-bottom: 5ex;
-  font-weight: 900;
-}
-
-.subtitle {
-  margin-top: 10ex;
-}
-
-.block2db,
-.block8db {
-  margin-top: 25ex;
-}
-
-.block2db {
-  margin-bottom: 4ex;
-}
-
-.block28db {
-  margin-top: -0.5ex;
-  margin-bottom: 1.6ex;
-}
-
-.main-text {
-  line-height: 4ex;
-}
-
-.it-subtitle {
-  margin-block-end: 0em;
-  margin-block-start: 1.5em;
-}
-
-.no-margin-end {
-  margin-block-end: 0em;
-}
-
-.no-margin-start {
-  margin-block-start: 0em;
-}
-
 /* Google styling for Julliet in November */
 
 .c54 {
@@ -361,7 +295,7 @@ body {
   font-weight: 400;
   text-decoration: none;
   vertical-align: baseline;
-  font-size: 12pt;
+  font-size: clamp(16px, 2.1vw, 20px);
   font-family: "Times New Roman";
   font-style: italic;
 }
@@ -1198,7 +1132,7 @@ body {
   font-weight: 400;
   text-decoration: none;
   vertical-align: baseline;
-  font-size: 12pt;
+  font-size: clamp(16px, 2.1vw, 20px);
   font-family: "Times New Roman";
   font-style: normal;
 }
@@ -2190,117 +2124,117 @@ body {
   margin-right: 8.1pt;
 }
 /* .title {
-  padding-top: 24pt;
-  color: #000000;
-  font-weight: 700;
-  font-size: 36pt;
-  padding-bottom: 6pt;
-  font-family: "Arial";
-  line-height: 1.15;
-  page-break-after: avoid;
-  orphans: 2;
-  widows: 2;
-  text-align: left;
-}
-.subtitle {
-  padding-top: 18pt;
-  color: #666666;
-  font-size: 24pt;
-  padding-bottom: 4pt;
-  font-family: "Georgia";
-  line-height: 1.15;
-  page-break-after: avoid;
-  font-style: italic;
-  orphans: 2;
-  widows: 2;
-  text-align: left;
-} 
-li {
-  color: #000000;
-  font-size: 11pt;
-  font-family: "Arial";
-}
-p {
-  margin: 0;
-  color: #000000;
-  font-size: 11pt;
-  font-family: "Arial";
-}
-h1 {
-  padding-top: 24pt;
-  color: #000000;
-  font-weight: 700;
-  font-size: 24pt;
-  padding-bottom: 6pt;
-  font-family: "Arial";
-  line-height: 1.15;
-  page-break-after: avoid;
-  orphans: 2;
-  widows: 2;
-  text-align: left;
-}
-h2 {
-  padding-top: 18pt;
-  color: #000000;
-  font-weight: 700;
-  font-size: 18pt;
-  padding-bottom: 4pt;
-  font-family: "Arial";
-  line-height: 1.15;
-  page-break-after: avoid;
-  orphans: 2;
-  widows: 2;
-  text-align: left;
-}
-h3 {
-  padding-top: 14pt;
-  color: #000000;
-  font-weight: 700;
-  font-size: 14pt;
-  padding-bottom: 4pt;
-  font-family: "Arial";
-  line-height: 1.15;
-  page-break-after: avoid;
-  orphans: 2;
-  widows: 2;
-  text-align: left;
-}
-h4 {
-  padding-top: 12pt;
-  color: #000000;
-  font-weight: 700;
-  font-size: 12pt;
-  padding-bottom: 2pt;
-  font-family: "Arial";
-  line-height: 1.15;
-  page-break-after: avoid;
-  orphans: 2;
-  widows: 2;
-  text-align: left;
-}
-h5 {
-  padding-top: 11pt;
-  color: #000000;
-  font-weight: 700;
-  font-size: 11pt;
-  padding-bottom: 2pt;
-  font-family: "Arial";
-  line-height: 1.15;
-  page-break-after: avoid;
-  orphans: 2;
-  widows: 2;
-  text-align: left;
-}
-h6 {
-  padding-top: 10pt;
-  color: #000000;
-  font-weight: 700;
-  font-size: 10pt;
-  padding-bottom: 2pt;
-  font-family: "Arial";
-  line-height: 1.15;
-  page-break-after: avoid;
-  orphans: 2;
-  widows: 2;
-  text-align: left;
-} */
+    padding-top: 24pt;
+    color: #000000;
+    font-weight: 700;
+    font-size: 36pt;
+    padding-bottom: 6pt;
+    font-family: "Arial";
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left;
+  }
+  .subtitle {
+    padding-top: 18pt;
+    color: #666666;
+    font-size: 24pt;
+    padding-bottom: 4pt;
+    font-family: "Georgia";
+    line-height: 1.15;
+    page-break-after: avoid;
+    font-style: italic;
+    orphans: 2;
+    widows: 2;
+    text-align: left;
+  } 
+  li {
+    color: #000000;
+    font-size: 11pt;
+    font-family: "Arial";
+  }
+  p {
+    margin: 0;
+    color: #000000;
+    font-size: 11pt;
+    font-family: "Arial";
+  }
+  h1 {
+    padding-top: 24pt;
+    color: #000000;
+    font-weight: 700;
+    font-size: 24pt;
+    padding-bottom: 6pt;
+    font-family: "Arial";
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left;
+  }
+  h2 {
+    padding-top: 18pt;
+    color: #000000;
+    font-weight: 700;
+    font-size: 18pt;
+    padding-bottom: 4pt;
+    font-family: "Arial";
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left;
+  }
+  h3 {
+    padding-top: 14pt;
+    color: #000000;
+    font-weight: 700;
+    font-size: 14pt;
+    padding-bottom: 4pt;
+    font-family: "Arial";
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left;
+  }
+  h4 {
+    padding-top: 12pt;
+    color: #000000;
+    font-weight: 700;
+    font-size: 12pt;
+    padding-bottom: 2pt;
+    font-family: "Arial";
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left;
+  }
+  h5 {
+    padding-top: 11pt;
+    color: #000000;
+    font-weight: 700;
+    font-size: 11pt;
+    padding-bottom: 2pt;
+    font-family: "Arial";
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left;
+  }
+  h6 {
+    padding-top: 10pt;
+    color: #000000;
+    font-weight: 700;
+    font-size: 10pt;
+    padding-bottom: 2pt;
+    font-family: "Arial";
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left;
+  } */
